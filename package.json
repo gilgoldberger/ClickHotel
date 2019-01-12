@@ -1,0 +1,25 @@
+{
+  "name": "ClickHotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "light-server": "^2.6.0"
+  },
+  "scripts": {
+    "start": "npx light-server -o -s ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilgoldberger/ClickHotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilgoldberger/ClickHotel/issues"
+  },
+  "homepage": "https://github.com/gilgoldberger/ClickHotel#readme"
+}
